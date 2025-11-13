@@ -1,0 +1,8 @@
+# Ignore these files from Cursor indexing
+node_modules/
+.expo/
+ios/
+android/
+*.log
+.DS_Store
+
